@@ -38,7 +38,6 @@ src/
 │   └── ExEventos.vue                ← @click, @keyup.enter, @submit.prevent
 │
 └── components/                      ← Componentes reutilizáveis
-    └── BotaoAcao.vue                ← Criado ao vivo durante o curso (pai/filho)
 ```
 
 ---
